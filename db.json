@@ -1,0 +1,49 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "body": "Xo'l Meva\n\n- Olma\n- Uzum\n- Banan\n- Nok\n-Gilos",
+      "updated": "2022-05-07T06:35:41.853Z"
+    },
+    {
+      "id": 3,
+      "body": "Suxo Frukt\n\n- Turshak\n- Bodom\n- Pista",
+      "updated": "2022-05-07T05:22:10.719Z"
+    },
+    {
+      "id": 4,
+      "body": "Binasa Frukt\n\n- Turshak\n- Bodom\n- Pista",
+      "updated": "2022-05-07T04:46:42.283Z"
+    },
+    {
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+      "updated": "2022-05-07T05:40:29.531Z",
+      "id": 5
+    },
+    {
+      "body": " The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+      "updated": "2022-05-07T05:46:25.496Z",
+      "id": 6
+    },
+    {
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.\n",
+      "updated": "2022-05-07T05:55:04.371Z",
+      "id": 7
+    },
+    {
+      "body": "lorem\n-lorem ipsom\n  console.log(title);\n  console.log(title);\n  console.log(title);\n  console.log(title);\n",
+      "updated": "2022-05-07T06:29:11.136Z",
+      "id": 8
+    },
+    {
+      "body": "subject\napple\nbanana",
+      "updated": "2022-05-07T06:29:20.980Z",
+      "id": 9
+    },
+    {
+      "body": "   console.log(content);\n",
+      "updated": "2022-05-07T06:50:24.420Z",
+      "id": 10
+    }
+  ]
+}
